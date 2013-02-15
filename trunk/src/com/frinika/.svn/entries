@@ -1,0 +1,319 @@
+10
+
+dir
+726
+svn://svn.code.sf.net/p/frinika/code/frinika/trunk/src/com/frinika
+svn://svn.code.sf.net/p/frinika/code
+
+
+
+2013-01-13T18:06:34.151618Z
+724
+pesalomo
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+03eb52d2-4050-4dc8-b83c-54c31565dc55
+
+release
+dir
+
+VersionProperties.java
+file
+
+
+
+
+2013-01-22T22:35:36.000000Z
+265d6a45227cbe189b5964e5b777ad2b
+2007-11-08T23:03:34.036553Z
+154
+eespjl
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2607
+
+midi
+dir
+
+swing
+dir
+
+localization
+dir
+
+About.java
+file
+
+
+
+
+2013-01-22T22:35:36.000000Z
+082e5bc98b7adc601931f18f1ff2a41c
+2007-11-08T23:03:34.036553Z
+154
+eespjl
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1247
+
+benchmark
+dir
+
+notation
+dir
+
+WelcomeDialog.java
+file
+
+
+
+
+2013-01-22T22:35:36.000000Z
+7631f139aebdb2bb2e79fb8e61434bc1
+2007-11-08T23:03:34.036553Z
+154
+eespjl
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5257
+
+radio
+dir
+
+clipboard
+dir
+
+tools
+dir
+
+settings
+dir
+
+global
+dir
+
+audio
+dir
+
+chart
+dir
+
+synth
+dir
+
+renderer
+dir
+
+project
+dir
+
+FrinikaMain.java
+file
+
+
+
+
+2013-01-22T22:35:36.000000Z
+19f08cc40387d791150633ec907f93b9
+2013-01-13T18:06:34.151618Z
+724
+pesalomo
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5975
+
+AboutDialog.java
+file
+
+
+
+
+2013-01-22T22:35:36.000000Z
+f7dcdfc6c2046254178f4fae41ce0bcb
+2011-03-01T15:27:12.907290Z
+649
+pesalomo
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+11305
+
+test
+dir
+
+mod
+dir
+
+versionmanagement
+dir
+
+soundbank
+dir
+
+gui
+dir
+
+sequencer
+dir
+
+SplashDialog.java
+file
+
+
+
+
+2013-01-22T22:35:36.000000Z
+3dd89556d4b56ba7cba70ed28e51316a
+2007-11-08T23:03:34.036553Z
+154
+eespjl
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+11965
+
+tracker
+dir
+
+voiceserver
+dir
+
+contrib
+dir
+
+codeexamples
+dir
+
+simphoney
+dir
+
+util
+dir
+
+tootX
+dir
+
